@@ -1,0 +1,16 @@
+﻿Kullanım:
+
+Manuel:
+    dns_changer.py nameserver
+
+Sabit:
+    dns_changer.py static_dns_name
+
+Sabit dns adreslerini göster:
+    dns_changer.py show_statics
+
+Örnek Sabit DNS:
+    dns_changer.py Google
+
+Örnek Manuel DNS:
+    dns_changer.py 8.8.8.8
