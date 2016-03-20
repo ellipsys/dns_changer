@@ -1,2 +1,2 @@
 # dns_changer
-Linus sistemlerde otomatik DNS ayarları yapılandırmak için yazdığım script.
+Linux sistemlerde otomatik DNS ayarları yapılandırmak için yazdığım script.
